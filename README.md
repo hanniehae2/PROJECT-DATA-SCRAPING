@@ -35,4 +35,4 @@ Proyek ini dapat dikembangkan lebih lanjut dengan menambahkan sumber data lain, 
 
 ## 🧑‍💻 Author
 
-Proyek ini dikerjakan oleh **[Ardhea Oktaviany]** sebagai latihan portofolio dalam bidang *data analysis* dan *web scraping*.
+Proyek ini dikerjakan oleh **Ardhea Oktaviany** sebagai latihan portofolio dalam bidang *data analysis* dan *web scraping*.
