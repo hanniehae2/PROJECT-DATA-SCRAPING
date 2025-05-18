@@ -20,7 +20,7 @@ Data yang diperoleh disimpan dalam bentuk dataset untuk dianalisis lebih lanjut.
 
 - Dataset berisi teks cuitan (tweet) yang menyebut *Le Sserafim*  
 - Visualisasi 10 kata yang paling sering muncul dalam isi tweet  
-- File `.csv` berisi data hasil scraping yang siap dianalisis
+- File `filtered_lesserafim.csv` berisi data hasil scraping yang siap dianalisis
 
 ---
 
